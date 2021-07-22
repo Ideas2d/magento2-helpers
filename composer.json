@@ -1,0 +1,31 @@
+{
+    "name": "ideas2d/module-helpers",
+    "description": "Magento 2 Helpers",
+    "type": "magento2-module",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Najeh Abassi",
+            "email": "najeh.abassi07@gmail.com"
+        },{
+            "name": "Faouzi Yahyaoui",
+            "email": "yahyaouifaouzi@gmail.com"
+        }
+    ],
+    "keywords": [
+        "magento 2",
+        "magento 2 helprs",
+        "magento2"
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Ideas2d\\Helpers\\": ""
+        }
+    }
+}

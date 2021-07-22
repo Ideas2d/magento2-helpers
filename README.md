@@ -1,1 +1,2 @@
-# magento2-helpers
+# Magento 2 Helpers
+
